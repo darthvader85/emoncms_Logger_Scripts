@@ -14,8 +14,6 @@ from time import *
 lt = localtime()
 
 # Apikey und URL für emoncms angeben
-s_apikey="acba7aa62bda32bb15261998c1a6fa13"
-s_emonurl="http://emon.sklammer.at/input/post.json?node=1&json={"
 s_apikey="your_api_key"
 s_emonurl="http://youremonurl.com/input/post.json?node=1&json={"
 
